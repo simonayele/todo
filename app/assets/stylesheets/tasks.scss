@@ -39,8 +39,13 @@ body {
 
 button,
 input[type="checkbox"] {
-  outline: 1px solid #1e5180 ;
+  outline: 1px solid #777;
+  border-radius: 1px;
+  width: 2.2em;
+  height: 2.2em;
 }
+
+
 
 .hidden {
   display: none;
